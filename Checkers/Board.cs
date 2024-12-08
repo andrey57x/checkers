@@ -649,7 +649,7 @@
     enum Situation { BlackWin = -1, Neutral = 0, WhiteWin = 1 }
     static internal class Constants
     {
-        public const double KING_BONUS = 1.9;
+        public const double KING_BONUS = 2.5;
         public const double MOVE_BONUS = 1.1;
         public const int NO_FIGURES_PENALTY = 100;
         public const int NO_MOVES_PENALTY = 50;
